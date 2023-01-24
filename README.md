@@ -20,7 +20,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4.End the program.
 
 ## PROGRAM :
-```
+```python
 
 #Program to solve a matrix using Gaussian elimination with partial pivoting.
 #Developed by: Ronick MIDHUN AZHAHU RAJA P
